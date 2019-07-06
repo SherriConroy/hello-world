@@ -1,2 +1,3 @@
 # hello-world
 first repository
+Hi, this is Sherri. All new, just starting...
